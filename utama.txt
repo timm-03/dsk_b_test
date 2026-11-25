@@ -1,2 +1,3 @@
 Halo, saya sedang 
 menggunakan git untuk menyimpan repository proyek saya
+Di line ini saya menambahkan update
