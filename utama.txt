@@ -1,0 +1,2 @@
+Halo, saya sedang 
+menggunakan git untuk menyimpan repository proyek saya
